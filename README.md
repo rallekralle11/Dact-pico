@@ -1,2 +1,3 @@
 # Dact pico
- Pin-compatible with the pi pico but with many protective features.
+
+![board](rugged_pico.jpg)
